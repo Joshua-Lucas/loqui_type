@@ -1,0 +1,4 @@
+/vendor-bin/
+/models/
+/bin/
+third_party/whisper.cpp/build/
